@@ -26,7 +26,7 @@ Reference-style:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-![alt text](https://github.com/Roiib/td2MarkDown/blob/main/mer.jpg "Logo Title Text 1"){:target="_blank"}
+![alt text](https://github.com/Roiib/td2MarkDown/blob/main/mer.jpg "Logo Title Text 1")
 
 
 | colonne 1        | colonne 7          | 2  |
@@ -46,5 +46,5 @@ Reference-style:
 ---
 
 <a href="https://www.youtube.com/watch?v=QGJ-3jOBSUw" target="_blank" ><img src="https://github.com/Roiib/td2MarkDown/blob/main/phin.jpg" 
-alt="IMAGE ALT TEXT HERE" width="1000" height="200" border="500" />{:target="_blank"}
+alt="IMAGE ALT TEXT HERE" width="1000" height="200" border="500" />
 
