@@ -18,13 +18,6 @@
 
 Here's our logo (hover to see the title text):
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "xcvfbxgn cf1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "un logo vreument"
 
 ![alt text](https://github.com/Roiib/td2MarkDown/blob/main/mer.jpg "une mer t'as peurrr")
 
