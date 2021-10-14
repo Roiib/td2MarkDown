@@ -2,7 +2,6 @@
 - [ ] Task 2
 - [ ] Task 3
 
-print("hello world!")
 
 # H1
 ## H2
@@ -10,3 +9,9 @@ print("hello world!")
 #### H4
 ##### H5
 ###### H6
+
+*italique* 
+
+**gras**
+*fkhgbk*
+[https://fnatic.fandom.com/fr/wiki/Wiki_fnatic]
