@@ -43,6 +43,6 @@ Reference-style:
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-<a href="https://www.youtube.com/watch?v=QGJ-3jOBSUw" target="blank"><img src="https://github.com/Roiib/td2MarkDown/blob/main/phin.jpg" 
+<a href="https://www.youtube.com/watch?v=QGJ-3jOBSUw" target="_blank" ><img src="https://github.com/Roiib/td2MarkDown/blob/main/phin.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="300" border="500" />
 
