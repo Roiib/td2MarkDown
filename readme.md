@@ -47,4 +47,6 @@ Reference-style:
 
 <a href="https://www.youtube.com/watch?v=QGJ-3jOBSUw" target="_blank" ><img src="https://github.com/Roiib/td2MarkDown/blob/main/phin.jpg" 
 alt="IMAGE ALT TEXT HERE" width="1000" height="200" border="500" />
+  
+  [![IMAGE ALT TEXT HERE](https://github.com/Roiib/td2MarkDown/blob/main/phin.jpg)](https://www.youtube.com/watch?v=QGJ-3jOBSUw)
 
