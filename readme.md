@@ -16,8 +16,6 @@
 *fkhgbk*
 [https://fnatic.fandom.com/fr/wiki/Wiki_fnatic]
 
-Here's our logo (hover to see the title text):
-
 
 ![alt text](https://github.com/Roiib/td2MarkDown/blob/main/mer.jpg "une mer t'as peurrr")
 
@@ -28,15 +26,6 @@ Here's our logo (hover to see the title text):
 | dfgdfg      | dfgdfg      |   dfgdfg |
 | dfgdfgdfg | dfgdfg     |    dfgdfgdfg |
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
----
 
 <a href="https://www.youtube.com/watch?v=QGJ-3jOBSUw" target="_blank" ><img src="https://github.com/Roiib/td2MarkDown/blob/main/phin.jpg" 
 alt="IMAGE ALT TEXT HERE" width="1000" height="200" border="500" /></a>
