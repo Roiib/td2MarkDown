@@ -26,7 +26,7 @@ Reference-style:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-![alt text](https://github.com/Roiib/td2MarkDown/blob/main/mer.jpg "Logo Title Text 1")
+![alt text](https://github.com/Roiib/td2MarkDown/blob/main/mer.jpg "Logo Title Text 1"){:target="_blank"}
 
 
 | colonne 1        | colonne 7          | 2  |
